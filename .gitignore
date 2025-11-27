@@ -1,0 +1,16 @@
+# Ignore environment variables
+.env
+
+# Ignore ChromaDB database
+chroma_db/
+
+# Ignore temporary uploaded files
+temp_files/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore OS junk
+*.log
+*.tmp
+.DS_Store
