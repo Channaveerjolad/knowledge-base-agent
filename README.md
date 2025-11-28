@@ -1,6 +1,6 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed8a933d-2bb9-4fda-9636-86c4f0ddb6ad" />
 
-
+Live demo link:https://knowledge-base-agent-yxxyxqwz9xhym8mdfxha5v.streamlit.app/
  
 # 📚 AI Knowledge Base Agent
 
@@ -126,6 +126,7 @@ Benefits:
                         │ • Insights               │
                         │ • Source Citations       │
                         └──────────────────────────┘
+
 
 
 
