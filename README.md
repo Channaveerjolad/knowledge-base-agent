@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ccb5832b-69cc-4a79-942a-825c1bce2d35" /> #AI Knowledge Base Agent
+ #AI Knowledge Base Agent
    An intelligent Retrieval-Augmented AI Agent that can:
    -Read & understand company documents (PDF/TXT)
    -Build a semantic knowledge base automatically
@@ -100,4 +100,5 @@
                        │ • Insights               │
                        │ • Source Citations       │
                        └──────────────────────────┘
+
 
