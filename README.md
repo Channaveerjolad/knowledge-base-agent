@@ -1,4 +1,4 @@
-📚 AI Knowledge Base Agent
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ccb5832b-69cc-4a79-942a-825c1bce2d35" /> #AI Knowledge Base Agent
    An intelligent Retrieval-Augmented AI Agent that can:
    -Read & understand company documents (PDF/TXT)
    -Build a semantic knowledge base automatically
@@ -7,7 +7,7 @@
    -Powered by Groq Llama 3.1 for ultra-fast inference
    -Stores embeddings using ChromaDB for persistent vector storage
 
-🚀 Overview
+ #Overview
     Modern companies have a lot of documents — policies, resumes, SOPs, HR guidelines, training material, etc.
     Employees waste a lot of time searching through them manually.
     This AI Agent solves that by:
@@ -16,7 +16,7 @@
     ✔ Allowing you to ask questions anytime
     ✔ Answering only from the uploaded documents (no hallucination)
 
-✨ Features
+ #Features
  ★ Smart Document Processing
    Upload PDF or TXT files
    Auto text extraction (using pypdf)
@@ -42,7 +42,7 @@
    Simple chat-style interaction
    Shows context-aware answers
    
-🧱 Tech Stack
+ #Tech Stack
 | Layer          | Technology          |
 | -------------- | ------------------- |
 | UI             | Streamlit           |
@@ -53,7 +53,7 @@
 | PDF Parsing    | pypdf               |
 | Env Management | python-dotenv       |
 
-🧠 Architecture Diagram
+ #Architecture Diagram
                   ┌────────────────────────────┐
                   │        Streamlit UI        │
                   │────────────────────────────│
@@ -100,3 +100,4 @@
                        │ • Insights               │
                        │ • Source Citations       │
                        └──────────────────────────┘
+
