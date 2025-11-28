@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b28cfa09-dc65-48e7-bc85-eec36e8febf2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed8a933d-2bb9-4fda-9636-86c4f0ddb6ad" />
+
 
  
 # 📚 AI Knowledge Base Agent
@@ -125,5 +126,6 @@ Benefits:
                         │ • Insights               │
                         │ • Source Citations       │
                         └──────────────────────────┘
+
 
 
